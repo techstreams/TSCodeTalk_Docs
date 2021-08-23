@@ -8,4 +8,6 @@
 ---
 A repository of various Google Docs Google Apps Scripts.
 
+* [Create Report](./CreateReport.md)
+
 
