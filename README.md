@@ -9,5 +9,7 @@
 A repository of various Google Docs Google Apps Scripts.
 
 * [Create Report](./Create_Report.md)
+* [Insert Text At Cursor](./Insert_At_Cursor.md)
+* [Turn Selection Purple](./Turn_Selection_Color)
 
 
